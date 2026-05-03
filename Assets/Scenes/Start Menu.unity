@@ -70399,9 +70399,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
-    _objectReferences:
-    - {fileID: 11400000, guid: 327ff9e3162ff6240a00b726dd09214e, type: 2}
+    _json: '{"nest":{"source":"Macro","macro":null,"embed":null}}'
+    _objectReferences: []
 --- !u!114 &525577983
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -70989,10 +70988,7 @@ PrefabInstance:
     - target: {fileID: 7320420648696280938, guid: 1e35ff0835be64341ba632879d4463ae,
         type: 3}
       propertyPath: m_Text
-      value: 'Welcome to a simple game. All you must do is run, but you must reach
-        the finish line before the music stops. These bees look pretty angry at you,
-        I wonder what you did, but try not to die to many times ok. Once you think
-        you''re ready go hit "G" to get on over there. '
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 7320420648696280938, guid: 1e35ff0835be64341ba632879d4463ae,
         type: 3}
@@ -71047,7 +71043,7 @@ PrefabInstance:
     - target: {fileID: 8239682406718279771, guid: 1e35ff0835be64341ba632879d4463ae,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 1338
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8239682406718279771, guid: 1e35ff0835be64341ba632879d4463ae,
         type: 3}
@@ -71062,7 +71058,7 @@ PrefabInstance:
     - target: {fileID: 8239682406718279771, guid: 1e35ff0835be64341ba632879d4463ae,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -47.5
+      value: -15.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
