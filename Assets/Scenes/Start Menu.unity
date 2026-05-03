@@ -71014,6 +71014,21 @@ PrefabInstance:
       propertyPath: m_FontData.m_Alignment
       value: 7
       objectReference: {fileID: 0}
+    - target: {fileID: 7320420648696280938, guid: 1e35ff0835be64341ba632879d4463ae,
+        type: 3}
+      propertyPath: m_FontData.m_FontStyle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7320420648696280938, guid: 1e35ff0835be64341ba632879d4463ae,
+        type: 3}
+      propertyPath: m_FontData.m_VerticalOverflow
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7320420648696280938, guid: 1e35ff0835be64341ba632879d4463ae,
+        type: 3}
+      propertyPath: m_FontData.m_HorizontalOverflow
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7809610077671754483, guid: 1e35ff0835be64341ba632879d4463ae,
         type: 3}
       propertyPath: m_Name
@@ -73799,7 +73814,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 1
+  Loop: 0
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
